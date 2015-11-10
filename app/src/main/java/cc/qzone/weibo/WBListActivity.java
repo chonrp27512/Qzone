@@ -20,7 +20,7 @@ import cc.qzone.weibo.model.WBToken;
 import cc.qzone.weibo.util.WBJsonUtil;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-22
  * Time: 16:59
  * Version 1.0

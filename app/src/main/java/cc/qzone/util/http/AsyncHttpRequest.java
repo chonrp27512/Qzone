@@ -3,7 +3,7 @@ package cc.qzone.util.http;
 import java.io.IOException;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-17
  * Time: 11:05
  * Version 1.0

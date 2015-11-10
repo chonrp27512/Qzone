@@ -13,7 +13,7 @@ import android.widget.LinearLayout;
 import cc.qzone.R;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-08
  * Time: 17:20
  * Version 1.0

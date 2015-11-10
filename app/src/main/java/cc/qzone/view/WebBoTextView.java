@@ -15,7 +15,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-07
  * Time: 15:33
  * Version 1.0

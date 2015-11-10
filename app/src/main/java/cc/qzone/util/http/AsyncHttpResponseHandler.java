@@ -7,7 +7,7 @@ import android.util.Log;
 import java.net.URI;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-15
  * Time: 18:00
  * Version 1.0

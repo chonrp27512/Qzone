@@ -7,7 +7,7 @@ import android.os.Parcelable;
 import android.text.TextUtils;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-22
  * Time: 16:28
  * Version 1.0

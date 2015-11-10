@@ -7,7 +7,7 @@ import android.widget.Toast;
 import cc.qzone.R;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-29
  * Time: 10:34
  * Version 1.0

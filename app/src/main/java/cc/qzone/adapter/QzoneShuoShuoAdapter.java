@@ -23,7 +23,7 @@ import cc.qzone.view.NineImgLayout;
 import cc.qzone.view.QzoneTitleView;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-08-27
  * Time: 10:00
  * Version 1.0

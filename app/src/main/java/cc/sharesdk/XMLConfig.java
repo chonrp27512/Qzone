@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.Objects;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-23
  * Time: 15:23
  * Version 1.0

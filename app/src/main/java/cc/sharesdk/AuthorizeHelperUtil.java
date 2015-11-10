@@ -1,7 +1,7 @@
 package cc.sharesdk;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-24
  * Time: 11:37
  * Version 1.0

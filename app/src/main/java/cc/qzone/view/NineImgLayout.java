@@ -23,7 +23,7 @@ import cc.qzone.R;
 import cc.qzone.util.ImageConfigBuilder;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-08-28
  * Time: 23:56
  * Version 1.0

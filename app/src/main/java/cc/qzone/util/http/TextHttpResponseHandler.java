@@ -7,7 +7,7 @@ import com.loopj.android.http.AsyncHttpClient;
 import java.io.UnsupportedEncodingException;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-15
  * Time: 22:08
  * Version 1.0

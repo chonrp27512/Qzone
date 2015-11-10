@@ -10,7 +10,7 @@ import cc.qzone.weibo.model.WBStatuses;
 import cc.qzone.weibo.model.WBUser;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-22
  * Time: 17:36
  * Version 1.0

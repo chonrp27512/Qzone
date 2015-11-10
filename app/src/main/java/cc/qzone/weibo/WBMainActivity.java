@@ -29,7 +29,7 @@ import cc.sharesdk.ShareSDK;
 import cc.sharesdk.sina.weibo.SinaWeibo;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-22
  * Time: 14:25
  * Version 1.0

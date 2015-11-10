@@ -9,7 +9,7 @@ import cc.sharesdk.AuthorizeHelperUtil;
 import cc.sharesdk.Platform;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-24
  * Time: 11:40
  * Version 1.0

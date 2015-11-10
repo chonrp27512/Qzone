@@ -16,7 +16,7 @@ import cc.qzone.R;
 import cc.qzone.weibo.model.WBToken;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-23
  * Time: 09:33
  * Version 1.0

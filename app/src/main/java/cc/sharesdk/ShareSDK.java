@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-23
  * Time: 11:36
  * Version 1.0

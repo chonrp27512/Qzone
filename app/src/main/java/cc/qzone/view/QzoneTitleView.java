@@ -15,7 +15,7 @@ import android.view.View;
 import cc.qzone.R;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-08-26
  * Time: 19:56
  * Version 1.0

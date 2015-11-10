@@ -16,7 +16,7 @@ import cc.sharesdk.sina.weibo.SinaWeiboAuthorizeHelperUtil;
 import cc.sharesdk.sina.weibo.WBToken;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-24
  * Time: 09:41
  * Version 1.0

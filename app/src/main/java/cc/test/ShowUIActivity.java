@@ -12,7 +12,7 @@ import java.util.Collection;
 import java.util.HashMap;
 
 /**
- * User: 靳世坤(1203596603@qq.com)
+ * User: (1203596603@qq.com)
  * Date: 2015-09-29
  * Time: 09:37
  * Version 1.0
