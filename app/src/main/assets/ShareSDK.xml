@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+  
+    <SinaWeibo
+        Id="1"
+        SortId="1"
+        AppKey="284902573"
+        AppSecret="125352d859d7c7c83184d2957fe2a34f"
+        RedirectUrl="http://www.koudairiji.com"
+        Enable="true" />
+
+    <KaiXin
+        Id="2"
+        SortId="2"
+        AppKey="380111108231ff7e83756fd7fc8e8b51"
+        AppSecret="97b2bd9edb2fe086b5288700eb6cc5fc"
+        RedirectUri="http://www.koudairiji.com"
+        Enable="true" />
+
+    <Douban
+        Id="3"
+        SortId="3"
+        ApiKey="0b11be7ef27a978621353b7cd76fc692"
+        Secret="0cc9594dedd10c01"
+        RedirectUri="http://www.koudairiji.com/douban"
+        Enable="true" />
+
+    <Renren
+        Id="4"
+        SortId="4"
+        AppId="231524"
+        ApiKey="ead4fa93a6ff414b9bc11619d1445998"
+        SecretKey="66b80cabbdce4bd1bbc4724cdd6b8e98"
+        RedirectUri="http://graph.renren.com/oauth/login_success.html"
+        Enable="true" />
+
+    <QZone
+        Id="5"
+        SortId="5"
+        AppId="801339488"
+        AppKey="b154629ce89e2c3f8611407ca524745a"
+        RedirectUri="auth://tauth.qq.com/"
+        Enable="true" />
+
+</DevInfor>

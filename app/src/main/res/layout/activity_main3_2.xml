@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cc.qzone.view.dragview.Left2DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!--content-->
+    <RelativeLayout
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/id_content_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hello world"
+            android:textSize="40sp"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <!--menu-->
+    <FrameLayout
+        android:id="@+id/id_container_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/titleName"
+        >
+
+    </FrameLayout>
+
+</cc.qzone.view.dragview.Left2DrawerLayout>

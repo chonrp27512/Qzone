@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/baise"
+    android:orientation="vertical"
+    >
+
+    <cc.qzone.view.QzoneTitleView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#FFFFFF"
+        android:id="@+id/title_view"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        app:nameTextColor="#000000"
+        app:nameTextSize="@dimen/nameSize"
+        app:nameTextBackground="@color/titleName"
+        app:timeTextColor="#000000"
+        app:timeTextSize="@dimen/timeSize"
+        />
+
+    <cc.qzone.view.WebBoTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        />
+
+    <cc.qzone.view.NineImgLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/nineImgView"
+        >
+
+    </cc.qzone.view.NineImgLayout>
+
+</LinearLayout>

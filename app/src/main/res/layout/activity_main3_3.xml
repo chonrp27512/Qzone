@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cc.qzone.view.dragview.TopDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!--content-->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/highlighted_text_material_dark"
+        >
+
+    </FrameLayout>
+
+    <!--menu-->
+    <FrameLayout
+        android:id="@+id/id_container_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/titleName"
+        >
+
+    </FrameLayout>
+
+</cc.qzone.view.dragview.TopDrawerLayout>

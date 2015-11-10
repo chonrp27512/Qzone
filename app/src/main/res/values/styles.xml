@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="AppBaseName" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/darkPrimaryColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="actionBarStyle">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="AppTheme" parent="AppBaseName">
+        <item name="alertDialogTheme">@style/alertDialogStyle</item>
+    </style>
+
+    <style name="DrawerLayoutTheme" parent="AppTheme">
+
+    </style>
+
+    <style name="alertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- 按钮颜色 -->
+        <item name="colorAccent">#FFC107</item>
+        <!-- 对话框title，message字体颜色 -->
+        <item name="android:textColorPrimary">@color/baise</item>
+        <!-- 对话框整体背景颜色 -->
+        <item name="android:background">@color/titleName</item>
+    </style>
+
+</resources>
